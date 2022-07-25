@@ -3,4 +3,9 @@
 
 Welcome to the github page for the [The whole blood transcriptional regulation landscape in 465 COVID-19 infected samples from Japan COVID-19 Task Force. Nat Commun nn, nnnn (2022). paper](link: to be added), where we report on a thorough analysis of whole blood RNA-seq data from 465 genotyped samples from the Japan COVID-19 Task Force, including 359 severe and 106 non-severe COVID-19 cases.
 
-The scripts used in the aper are stored in the code directory.
+The scripts used in the paper are stored in the code directory.
+
+Jupyter notebooks reproducing the main results can be found in the tutorials directory (WIP). 
+
+
+[mainfigure1_NCOMMS-21-49827.pdf](https://github.com/QingboWang/japan_covid_taskforce_rna/files/9179097/mainfigure1_NCOMMS-21-49827.pdf)

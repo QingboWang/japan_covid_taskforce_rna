@@ -8,4 +8,5 @@ The scripts used in the paper are stored in the code directory.
 Jupyter notebooks reproducing the main results can be found in the tutorials directory (WIP). 
 
 
-[mainfigure1_NCOMMS-21-49827.pdf](https://github.com/QingboWang/japan_covid_taskforce_rna/files/9179097/mainfigure1_NCOMMS-21-49827.pdf)
+![mainfigure1_NCOMMS-21-49827](https://user-images.githubusercontent.com/11305395/180725737-eb5ddedc-de12-4b4e-aa64-0e1f703465ee.png)
+

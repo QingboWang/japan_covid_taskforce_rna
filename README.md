@@ -5,7 +5,7 @@ Welcome to the github page for the [The whole blood transcriptional regulation l
 
 The scripts used in the paper are stored in the code directory.
 
-Jupyter notebooks reproducing the main results can be found at `jctf_rna_tutorial.ipynb` (WIP). 
+A tutorial exploring the summary data from our analysis can be found at `jctf_rna_tutorial.ipynb`. 
 The data analysed in the notebook is publicly available at the [NBDC Human Database (ID: hum0343.v2)](https://humandbs.biosciencedbc.jp/en/hum0343-v2). 
 
 

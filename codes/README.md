@@ -1,11 +1,10 @@
+- `cis_eqtl_analysis.py` was used to perform cis-eQTL analysis (Fig. 2)
+- `cis_eqtl_plots.py` was used to plot the results from cis-eQTL analysis (Fig. 2)
+- `cis_sqtl_analysis.py` was used for cis-sQTL analysis (Fig. 3)
+- `complex_trait_coloc.py` was used for co-localization (with complex trait-causal variants) analysis (Fig. 4)
+- `trans_eqtl_analysis.py` was used for trans-eQTL analysis (Fig. 5)
+- `differential_expression.R` was used to perform differential gene expression (and intron usage) analysis (Fig. 6)
+- `differential_expression.py` was used to plot the results from differential gene expression (and intron usage) analysis (Fig. 6)
+- `ieqtl_analysis_and_plots.py` was used for interaction-eQTL analysis (Fig. 7 and 8)
+- `qc_plots.py` was used for sample QC from the RNA-seq data (Fig. S1)
 - `finemapping_codes` includes codes used to perform fine-mapping with SuSiE and FINEMAP.
-- create_cov_adj_mat.py
-cis_eqtl_analysis.py
-cis_eqtl_plots.py
-cis_sqtl_analysis.py
-complex_trait_coloc.py
-differential_expression.R
-differential_expression.py
-ieqtl_analysis_and_plots.py
-qc_plots.py
-trans_eqtl_analysis.py

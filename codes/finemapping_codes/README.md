@@ -1,0 +1,6 @@
+- `collect_fm_and_susie_results.sh` is the code to collect the fine-mapping results after running fine-mapping for all eGenes.
+- `create_cov_adj_mat.py` is the code to create the matrix used for covariate adjustment.
+- `create_ld_mat_for_a_gene.py` is the sub-code to create the in-sample LD matrix for a gene (cis-window).
+- `create_ld_mat_for_a_gene.sh` is the code to create the in-sample LD matrix for a gene (cis-window).
+- `finemap_a_gene.sh` is the code to run SuSiE and FINEMAP for a gene. 
+- `run_susie_for_a_gene.R` is the code to perform fine-mapping using SuSiE for a gene. 

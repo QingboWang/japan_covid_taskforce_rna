@@ -10,5 +10,6 @@ The data analysed in the notebook is publicly available at the [NBDC Human Datab
 
 
 
-[highres_mainfigure1_NCOMMS-21-49827.pdf](https://github.com/QingboWang/japan_covid_taskforce_rna/files/9305268/highres_mainfigure1_NCOMMS-21-49827.pdf)
+![highres_mainfigure1_NCOMMS-21-49827](https://user-images.githubusercontent.com/11305395/184045648-61b04118-094c-4e7f-99a0-a38ef233a6f7.png)
+
 
